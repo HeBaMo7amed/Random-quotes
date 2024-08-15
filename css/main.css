@@ -1,0 +1,22 @@
+
+.content{
+    background-image: url("../images/143-141829-tourist-attraction-barcelona-art-tourism-football_700x400.webp");
+    height: 100vh;
+    background-size:cover ;
+    background-position: center ;
+    background-attachment: fixed;
+    } 
+    .box{
+        background-color: #000000b3;
+        padding: 50px 20px ;
+        height: 400px;
+        width: 700px;
+        color:whitesmoke;
+        
+    
+    }
+    #text{
+        border: 2px solid transparent;
+        border-radius: 30px;
+    }
+    
